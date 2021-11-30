@@ -4,7 +4,7 @@ CS188 2019 summer version
 Completed in 2019/06.  
 
 ## PJ1_search  
-![PJ1_search](file:///C:/Users/Eldar/Downloads/PJ1_Search.png)
+![PJ1_search](https://ibb.co/kH0chBc)
 
 ## PJ2_multiagent  
-![PJ2_multiagent](./Screenshot/PJ2_MultiAgentSearch.png)
+![PJ2_multiagent](<a href="https://ibb.co/3Yt7xBT"><img src="https://i.ibb.co/M5qszMg/PJ2-Multi-Agent-Search.png" alt="PJ2-Multi-Agent-Search" border="0"></a>)

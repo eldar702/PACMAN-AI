@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccc344eb-e285-4448-b0f4-1b715bdf8ad0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="200Di5EGsEA1nrDvicTEe9zyqqz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pacman.py" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Eldar\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacman.py" />
+      <option name="PARAMETERS" value="-l tinyMaze -p SearchAgent" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pacman" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ex1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Eldar\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacman.py" />
+      <option name="PARAMETERS" value="-l trickySearch -p AStarFoodSearchAgent" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc344eb-e285-4448-b0f4-1b715bdf8ad0" name="Default Changelist" comment="" />
+      <created>1635172735757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635172735757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" width="1282" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636294637451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" width="1282" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636294637451" />
+    <state x="852" y="274" key="#xdebugger.XInspectDialog" timestamp="1636272354509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="852" y="274" key="#xdebugger.XInspectDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636272354509" />
+    <state x="715" y="224" key="#xdebugger.evaluate" timestamp="1636272353672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636272353672" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1636272530821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636272530821" />
+    <state x="545" y="285" key="FileChooserDialogImpl" timestamp="1635672603995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="285" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1635672603995" />
+    <state width="1899" height="248" key="GridCell.Tab.0.bottom" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.0.center" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.0.left" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.0.right" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.1.bottom" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.1.center" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.1.left" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state width="1899" height="248" key="GridCell.Tab.1.right" timestamp="1636305032210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1636305032210" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1635441536364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1635441536364" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1635410358166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1635410358166" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1635437571992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1635437571992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="current_node" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
